@@ -7,9 +7,7 @@
         margin: 0;
         padding-top: 120px; /* To prevent overlap with fixed navbar */
       }
-txt{
-  margin: 0;
-}
+
       .quiz-card {
         max-width: 100%;
         width: 100%;
